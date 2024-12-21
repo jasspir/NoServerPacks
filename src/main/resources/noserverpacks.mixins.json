@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "you.yuli.noserverpacks.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ResourcePackSendS2CPacketMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
